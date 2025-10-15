@@ -1,0 +1,146 @@
+
+songshu.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+b_yan1
+  rotate: true
+  xy: 372, 31
+  size: 186, 66
+  orig: 186, 66
+  offset: 0, 0
+  index: -1
+b_yan2
+  rotate: true
+  xy: 440, 35
+  size: 182, 84
+  orig: 182, 84
+  offset: 0, 0
+  index: -1
+b_zu
+  rotate: true
+  xy: 2, 2
+  size: 206, 63
+  orig: 206, 63
+  offset: 0, 0
+  index: -1
+k_yan1
+  rotate: true
+  xy: 700, 409
+  size: 154, 85
+  orig: 154, 85
+  offset: 0, 0
+  index: -1
+k_yan2
+  rotate: true
+  xy: 700, 253
+  size: 154, 84
+  orig: 154, 84
+  offset: 0, 0
+  index: -1
+ren1
+  rotate: false
+  xy: 2, 501
+  size: 228, 437
+  orig: 228, 437
+  offset: 0, 0
+  index: -1
+ren2
+  rotate: false
+  xy: 2, 940
+  size: 1075, 1099
+  orig: 1075, 1099
+  offset: 0, 0
+  index: -1
+ren3
+  rotate: true
+  xy: 476, 680
+  size: 258, 185
+  orig: 258, 185
+  offset: 0, 0
+  index: -1
+ren5
+  rotate: false
+  xy: 2, 210
+  size: 287, 289
+  orig: 287, 289
+  offset: 0, 0
+  index: -1
+ren6
+  rotate: true
+  xy: 529, 269
+  size: 258, 169
+  orig: 258, 169
+  offset: 0, 0
+  index: -1
+ren7
+  rotate: true
+  xy: 663, 681
+  size: 257, 170
+  orig: 257, 170
+  offset: 0, 0
+  index: -1
+yan1
+  rotate: false
+  xy: 411, 529
+  size: 159, 124
+  orig: 159, 124
+  offset: 0, 0
+  index: -1
+yan2
+  rotate: false
+  xy: 224, 19
+  size: 146, 189
+  orig: 146, 189
+  offset: 0, 0
+  index: -1
+yan3
+  rotate: false
+  xy: 291, 219
+  size: 236, 283
+  orig: 236, 283
+  offset: 0, 0
+  index: -1
+yan4
+  rotate: false
+  xy: 572, 565
+  size: 165, 113
+  orig: 165, 113
+  offset: 0, 0
+  index: -1
+yan5
+  rotate: false
+  xy: 67, 9
+  size: 155, 199
+  orig: 155, 199
+  offset: 0, 0
+  index: -1
+yan6
+  rotate: false
+  xy: 232, 655
+  size: 242, 283
+  orig: 242, 283
+  offset: 0, 0
+  index: -1
+zu1
+  rotate: false
+  xy: 526, 38
+  size: 249, 179
+  orig: 249, 179
+  offset: 0, 0
+  index: -1
+zu2
+  rotate: true
+  xy: 739, 590
+  size: 89, 78
+  orig: 89, 78
+  offset: 0, 0
+  index: -1
+zu3
+  rotate: false
+  xy: 232, 504
+  size: 177, 149
+  orig: 177, 149
+  offset: 0, 0
+  index: -1

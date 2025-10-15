@@ -1,0 +1,139 @@
+
+yanjing.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+b_yan1
+  rotate: false
+  xy: 225, 1429
+  size: 221, 88
+  orig: 221, 88
+  offset: 0, 0
+  index: -1
+b_yan2
+  rotate: false
+  xy: 2, 1433
+  size: 221, 84
+  orig: 221, 84
+  offset: 0, 0
+  index: -1
+b_zu
+  rotate: false
+  xy: 1679, 1263
+  size: 353, 254
+  orig: 353, 254
+  offset: 0, 0
+  index: -1
+k_yan1
+  rotate: false
+  xy: 1418, 1414
+  size: 259, 103
+  orig: 259, 103
+  offset: 0, 0
+  index: -1
+k_yan2
+  rotate: false
+  xy: 1157, 1415
+  size: 259, 102
+  orig: 259, 102
+  offset: 0, 0
+  index: -1
+k_yan3
+  rotate: false
+  xy: 448, 1423
+  size: 187, 94
+  orig: 187, 94
+  offset: 0, 0
+  index: -1
+k_yan4
+  rotate: false
+  xy: 637, 1423
+  size: 187, 94
+  orig: 187, 94
+  offset: 0, 0
+  index: -1
+k_zu
+  rotate: false
+  xy: 905, 1160
+  size: 456, 253
+  orig: 456, 253
+  offset: 0, 0
+  index: -1
+ren1
+  rotate: false
+  xy: 2, 2
+  size: 990, 849
+  orig: 990, 849
+  offset: 0, 0
+  index: -1
+ren2
+  rotate: true
+  xy: 284, 923
+  size: 269, 545
+  orig: 269, 545
+  offset: 0, 0
+  index: -1
+ren3
+  rotate: true
+  xy: 1172, 388
+  size: 580, 582
+  orig: 580, 582
+  offset: 0, 0
+  index: -1
+ren4
+  rotate: true
+  xy: 395, 1194
+  size: 224, 508
+  orig: 224, 508
+  offset: 0, 0
+  index: -1
+ren5
+  rotate: true
+  xy: 1629, 970
+  size: 291, 376
+  orig: 291, 376
+  offset: 0, 0
+  index: -1
+ren6
+  rotate: true
+  xy: 831, 853
+  size: 305, 339
+  orig: 305, 339
+  offset: 0, 0
+  index: -1
+yan1
+  rotate: true
+  xy: 991, 1419
+  size: 98, 164
+  orig: 98, 164
+  offset: 0, 0
+  index: -1
+yan2
+  rotate: true
+  xy: 1363, 1153
+  size: 259, 264
+  orig: 259, 264
+  offset: 0, 0
+  index: -1
+yan3
+  rotate: true
+  xy: 826, 1420
+  size: 97, 163
+  orig: 97, 163
+  offset: 0, 0
+  index: -1
+yan4
+  rotate: true
+  xy: 2, 1030
+  size: 259, 280
+  orig: 259, 280
+  offset: 0, 0
+  index: -1
+zu
+  rotate: false
+  xy: 2, 1291
+  size: 391, 136
+  orig: 391, 136
+  offset: 0, 0
+  index: -1

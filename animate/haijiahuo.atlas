@@ -1,0 +1,118 @@
+
+haijiahuo.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1_yan1
+  rotate: false
+  xy: 1799, 610
+  size: 231, 130
+  orig: 231, 130
+  offset: 0, 0
+  index: -1
+1_yan2
+  rotate: true
+  xy: 1545, 116
+  size: 255, 127
+  orig: 255, 127
+  offset: 0, 0
+  index: -1
+1_yan3
+  rotate: false
+  xy: 1545, 373
+  size: 92, 139
+  orig: 92, 139
+  offset: 0, 0
+  index: -1
+1_yan4
+  rotate: false
+  xy: 1639, 373
+  size: 92, 139
+  orig: 92, 139
+  offset: 0, 0
+  index: -1
+1_yan5
+  rotate: true
+  xy: 1799, 352
+  size: 256, 229
+  orig: 256, 229
+  offset: 0, 0
+  index: -1
+1_yan6
+  rotate: true
+  xy: 1799, 742
+  size: 277, 237
+  orig: 277, 237
+  offset: 0, 0
+  index: -1
+1_zu
+  rotate: true
+  xy: 1443, 514
+  size: 505, 354
+  orig: 505, 354
+  offset: 0, 0
+  index: -1
+2_yan3
+  rotate: false
+  xy: 1256, 2
+  size: 236, 82
+  orig: 240, 86
+  offset: 2, 2
+  index: -1
+2_yan4
+  rotate: false
+  xy: 1494, 3
+  size: 237, 81
+  orig: 241, 85
+  offset: 2, 2
+  index: -1
+2_zu
+  rotate: true
+  xy: 890, 2
+  size: 446, 124
+  orig: 446, 124
+  offset: 0, 0
+  index: -1
+ren1
+  rotate: true
+  xy: 1016, 34
+  size: 414, 238
+  orig: 414, 238
+  offset: 0, 0
+  index: -1
+ren2
+  rotate: false
+  xy: 1256, 86
+  size: 287, 411
+  orig: 287, 411
+  offset: 0, 0
+  index: -1
+ren3
+  rotate: false
+  xy: 890, 450
+  size: 313, 569
+  orig: 313, 569
+  offset: 0, 0
+  index: -1
+ren4
+  rotate: true
+  xy: 2, 69
+  size: 950, 886
+  orig: 950, 886
+  offset: 0, 0
+  index: -1
+ren5
+  rotate: false
+  xy: 1205, 499
+  size: 236, 520
+  orig: 236, 520
+  offset: 0, 0
+  index: -1
+ren6
+  rotate: false
+  xy: 1733, 7
+  size: 289, 343
+  orig: 289, 343
+  offset: 0, 0
+  index: -1
